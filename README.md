@@ -1,4 +1,4 @@
-Passionate Data Scientist who holds an MBA in Information Technology & Systems management and has strong math background and 4+ years of experience using predictive modeling, data processing, and data mining algorithms as well as programming languages, including Python and SQL to solve challenging business problems.
+Passionate Data Scientist with strong math background and 4+ years of experience developing and implementing projects in machine learning as individual contributor and as team player to solve challenging business problems.
 
 * 🌍  I'm based in Essen - Germany
 * ✉️  You can contact me at [mousa.refaei@outlook.com](mailto:mousa.refaei@outlook.com)
