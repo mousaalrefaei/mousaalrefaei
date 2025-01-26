@@ -1,4 +1,4 @@
-Passionate Data Scientist with strong math background and 4+ years of experience developing and implementing projects in machine learning as individual contributor and as team player to solve challenging business problems.
+AI specialist with two master's degrees in Data Science and Business Administration, and 7+ years of experience in AI and Data Analytics. Expert in creating AI-driven solutions to solve business challenges, leveraging advanced algorithms and predictive models to drive innovation and strategic decisions.
 
 * 🌍  I'm based in Essen - Germany
 * ✉️  You can contact me at [mousa.refaei@outlook.com](mailto:mousa.refaei@outlook.com)
